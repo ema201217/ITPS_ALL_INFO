@@ -1,2 +1,1 @@
-# ITPS_ALL_INFO
-Bienvenido a ITPS
+# Bienvenido a ITPS
